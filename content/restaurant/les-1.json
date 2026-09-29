@@ -1,0 +1,46 @@
+{
+  "id": "restaurant-1",
+  "titel": "Binnenkomen en reserveren",
+  "intro": "Je loopt een trattoria binnen of belt om te reserveren. Met deze zinnen heb je binnen tien seconden een tafel.",
+  "zinnen": [
+    {
+      "id": "r1-buonasera",
+      "it": "Buonasera!",
+      "nl": "Goedenavond!",
+      "uitleg": "Buona = goede, sera = avond. Italianen begroeten je bijna altijd bij binnenkomst, dus begin er zelf ook mee.",
+      "cultuurtip": "'Buonasera' gebruik je al vanaf de middag (ongeveer 16 à 17 uur). Daarvoor zeg je 'buongiorno'."
+    },
+    {
+      "id": "r1-tavolo-per-due",
+      "it": "Vorrei un tavolo per due, per favore.",
+      "nl": "Ik wil graag een tafel voor twee, alstublieft.",
+      "uitleg": "'Vorrei' betekent letterlijk 'ik zou willen'. Dat is veel beleefder dan 'voglio' (ik wil), wat al snel bot klinkt."
+    },
+    {
+      "id": "r1-tavolo-libero",
+      "it": "Avete un tavolo libero?",
+      "nl": "Hebben jullie een tafel vrij?",
+      "uitleg": "'Avete' is 'jullie hebben'. Je spreekt hier het restaurant als geheel aan, daarom de meervoudsvorm."
+    },
+    {
+      "id": "r1-prenotare",
+      "it": "Vorrei prenotare un tavolo per stasera.",
+      "nl": "Ik wil graag een tafel reserveren voor vanavond.",
+      "uitleg": "Na 'vorrei' volgt het hele werkwoord: 'prenotare' = reserveren. 'Stasera' is een samentrekking van 'questa sera' (deze avond).",
+      "cultuurtip": "Italianen eten laat. Vóór 19.30 uur zijn veel restaurants nog leeg of zelfs dicht; in het zuiden eet men vaak pas rond 21 uur."
+    },
+    {
+      "id": "r1-prenotazione",
+      "it": "Ho una prenotazione a nome de Vries.",
+      "nl": "Ik heb een reservering op naam van De Vries.",
+      "uitleg": "'Ho' = ik heb (de h spreek je niet uit: 'o'). 'A nome' = op naam van. Vul gewoon je eigen achternaam in."
+    },
+    {
+      "id": "r1-fuori",
+      "it": "Possiamo sederci fuori?",
+      "nl": "Kunnen we buiten zitten?",
+      "uitleg": "'Possiamo' = kunnen we. 'Sederci' = gaan zitten (sedersi) met 'ci' (ons) eraan vast geplakt.",
+      "cultuurtip": "De ober vraagt vaak 'Dentro o fuori?': binnen of buiten?"
+    }
+  ]
+}

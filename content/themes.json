@@ -1,0 +1,58 @@
+{
+  "themas": [
+    {
+      "id": "begroeten",
+      "titel": "Begroeten en beleefdheid",
+      "emoji": "👋",
+      "beschrijving": "Buongiorno, per favore, grazie, scusi",
+      "lessen": []
+    },
+    {
+      "id": "restaurant",
+      "titel": "Restaurant",
+      "emoji": "🍝",
+      "beschrijving": "Reserveren, bestellen, allergieën en afrekenen",
+      "lessen": [
+        "restaurant/les-1.json",
+        "restaurant/les-2.json",
+        "restaurant/les-3.json",
+        "restaurant/les-4.json"
+      ]
+    },
+    {
+      "id": "bar",
+      "titel": "Bar en café",
+      "emoji": "☕",
+      "beschrijving": "Koffie bestellen, aan de bar of aan tafel",
+      "lessen": []
+    },
+    {
+      "id": "hotel",
+      "titel": "Hotel en verblijf",
+      "emoji": "🏨",
+      "beschrijving": "Inchecken, vragen en wensen",
+      "lessen": []
+    },
+    {
+      "id": "vervoer",
+      "titel": "De weg en vervoer",
+      "emoji": "🚆",
+      "beschrijving": "Trein, taxi, bus en de weg vragen",
+      "lessen": []
+    },
+    {
+      "id": "winkelen",
+      "titel": "Winkelen en betalen",
+      "emoji": "🛍️",
+      "beschrijving": "Prijzen, maten en afrekenen",
+      "lessen": []
+    },
+    {
+      "id": "noodgevallen",
+      "titel": "Noodgevallen en hulp",
+      "emoji": "🆘",
+      "beschrijving": "Hulp vragen als het nodig is",
+      "lessen": []
+    }
+  ]
+}

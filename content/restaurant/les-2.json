@@ -1,0 +1,48 @@
+{
+  "id": "restaurant-2",
+  "titel": "Bestellen",
+  "intro": "De menukaart ligt op tafel. Tijd om beleefd en zelfverzekerd te bestellen.",
+  "zinnen": [
+    {
+      "id": "r2-menu",
+      "it": "Possiamo vedere il menù, per favore?",
+      "nl": "Mogen we de menukaart zien, alstublieft?",
+      "uitleg": "'Possiamo' = kunnen/mogen we, 'vedere' = zien. Een vraag met 'possiamo' is een vriendelijke manier om iets te vragen.",
+      "twijfel": "Zowel 'menù' (met accent) als 'menu' komen voor in het Italiaans. Graag laten bevestigen welke spelling de voorkeur heeft."
+    },
+    {
+      "id": "r2-consiglia",
+      "it": "Cosa ci consiglia?",
+      "nl": "Wat raadt u ons aan?",
+      "uitleg": "'Consiglia' is de u-vorm (Lei) van 'consigliare', aanraden. 'Ci' = ons. Zo toon je interesse en krijg je vaak de beste tip van de dag.",
+      "cultuurtip": "Vraag ook naar de 'piatto del giorno' (dagschotel): vaak vers en lokaal."
+    },
+    {
+      "id": "r2-carbonara",
+      "it": "Per me, gli spaghetti alla carbonara.",
+      "nl": "Voor mij de spaghetti carbonara.",
+      "uitleg": "'Per me' = voor mij: de makkelijkste manier om te bestellen. 'Spaghetti' is in het Italiaans meervoud, daarom 'gli' in plaats van 'il'."
+    },
+    {
+      "id": "r2-vino",
+      "it": "Vorrei un quarto di vino rosso della casa.",
+      "nl": "Ik wil graag een kwart liter rode huiswijn.",
+      "uitleg": "Huiswijn bestel je vaak per karaf: 'un quarto' (¼ liter), 'mezzo litro' (½ liter) of 'un litro'. 'Della casa' = van het huis.",
+      "twijfel": "In de praktijk zegt men ook korter 'un quarto di rosso della casa'. Graag laten checken wat het natuurlijkst klinkt."
+    },
+    {
+      "id": "r2-acqua",
+      "it": "Mi porta dell'acqua naturale, per favore?",
+      "nl": "Kunt u mij wat plat water brengen, alstublieft?",
+      "uitleg": "'Mi porta…?' = brengt u mij…? Het is de u-vorm van 'portare' als vraag: beleefd én heel gebruikelijk bij de ober.",
+      "cultuurtip": "Water kies je als 'naturale' (plat) of 'frizzante' (bruis). Meestal krijg je een fles; kraanwater vragen is ongebruikelijk."
+    },
+    {
+      "id": "r2-secondo",
+      "it": "Come secondo, prendo il pesce.",
+      "nl": "Als hoofdgerecht neem ik de vis.",
+      "uitleg": "'Prendo' = ik neem, net als in het Nederlands. 'Il secondo' is de tweede gang: vlees of vis.",
+      "cultuurtip": "Een menu bestaat uit antipasto, primo (pasta/risotto), secondo (vlees/vis), contorno (bijgerecht) en dolce. Je hoeft echt niet alles te nemen."
+    }
+  ]
+}
