@@ -1,0 +1,48 @@
+{
+  "id": "restaurant-4",
+  "titel": "Afrekenen",
+  "intro": "Het was heerlijk. Nu nog netjes afrekenen, zonder te zwaaien naar de ober.",
+  "zinnen": [
+    {
+      "id": "r4-conto-kort",
+      "it": "Il conto, per favore.",
+      "nl": "De rekening, alstublieft.",
+      "uitleg": "Kort en prima beleefd dankzij 'per favore'. 'Il conto' = de rekening.",
+      "cultuurtip": "De ober brengt de rekening niet uit zichzelf: dat zou onbeleefd zijn, alsof je weg moet. Je moet er dus zelf om vragen."
+    },
+    {
+      "id": "r4-conto-lang",
+      "it": "Potrei avere il conto, per favore?",
+      "nl": "Zou ik de rekening mogen hebben, alstublieft?",
+      "uitleg": "'Potrei' = zou ik kunnen/mogen. Net als 'vorrei' is dit de beleefde voorwaardelijke vorm: extra netjes."
+    },
+    {
+      "id": "r4-carta",
+      "it": "Posso pagare con la carta?",
+      "nl": "Kan ik met de kaart betalen?",
+      "uitleg": "'Posso' = ik kan/mag, 'pagare' = betalen. 'La carta' is hier de pinpas of creditcard.",
+      "cultuurtip": "Kaartbetalingen zijn inmiddels overal gebruikelijk, maar bij kleine zaken is wat contant geld handig."
+    },
+    {
+      "id": "r4-separati",
+      "it": "Possiamo pagare separatamente?",
+      "nl": "Kunnen we apart betalen?",
+      "uitleg": "'Separatamente' = apart, afzonderlijk. De '-mente' aan het eind is net als het Nederlandse '-lijk'.",
+      "cultuurtip": "Apart betalen is minder gebruikelijk dan in Nederland. Italianen verdelen vaak gewoon gelijk: 'pagare alla romana'."
+    },
+    {
+      "id": "r4-coperto",
+      "it": "Che cos'è il coperto?",
+      "nl": "Wat is de coperto?",
+      "uitleg": "'Che cos'è' = wat is (cosa + è). Handig voor alles wat je op de rekening niet begrijpt.",
+      "cultuurtip": "De 'coperto' is een vast bedrag per persoon voor brood en tafeldekking (vaak € 1–3). Het is geen fooi en moet op de kaart vermeld staan."
+    },
+    {
+      "id": "r4-buonissimo",
+      "it": "Era tutto buonissimo, grazie!",
+      "nl": "Het was allemaal heerlijk, dank u wel!",
+      "uitleg": "'Era' = het was, 'tutto' = alles. 'Buonissimo' is 'buono' (lekker) in overtreffende trap: superlekker.",
+      "cultuurtip": "Fooi is in Italië niet verplicht. Afronden of een paar euro achterlaten bij goede service wordt gewaardeerd."
+    }
+  ]
+}

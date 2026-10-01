@@ -1,0 +1,46 @@
+{
+  "id": "restaurant-3",
+  "titel": "Allergieën en wensen",
+  "intro": "Belangrijk en makkelijker dan je denkt: vertellen wat je niet mag of wilt eten.",
+  "zinnen": [
+    {
+      "id": "r3-arachidi",
+      "it": "Sono allergico alle arachidi.",
+      "nl": "Ik ben allergisch voor pinda's.",
+      "uitleg": "'Sono' = ik ben. Een man zegt 'allergico', een vrouw 'allergica'. 'Alle' = a + le (voor de).",
+      "twijfel": "Voor een algemene notenallergie is 'frutta a guscio' het juiste begrip ('noci' zijn vooral walnoten). Laat eventueel checken of je dat liever apart wilt leren."
+    },
+    {
+      "id": "r3-glutine",
+      "it": "C'è glutine in questo piatto?",
+      "nl": "Zit er gluten in dit gerecht?",
+      "uitleg": "'C'è' = er is (ci + è). 'Questo piatto' = dit gerecht. Met 'C'è … ?' vraag je naar vrijwel elk ingrediënt."
+    },
+    {
+      "id": "r3-celiaco",
+      "it": "Sono celiaco.",
+      "nl": "Ik heb coeliakie.",
+      "uitleg": "Letterlijk: 'ik ben coeliakiepatiënt'. Een vrouw zegt 'celiaca'.",
+      "cultuurtip": "Italië is erg bekend met coeliakie. Veel restaurants hebben pasta of pizza 'senza glutine' (glutenvrij)."
+    },
+    {
+      "id": "r3-vegetariani",
+      "it": "Avete piatti vegetariani?",
+      "nl": "Hebben jullie vegetarische gerechten?",
+      "uitleg": "'Avete' = hebben jullie (het restaurant). 'Piatti' is het meervoud van 'piatto', gerecht."
+    },
+    {
+      "id": "r3-cipolla",
+      "it": "Senza cipolla, per favore.",
+      "nl": "Zonder ui, alstublieft.",
+      "uitleg": "'Senza' = zonder. Handig om achter elke bestelling te plakken: 'senza formaggio' (zonder kaas), 'senza aglio' (zonder knoflook)."
+    },
+    {
+      "id": "r3-carne",
+      "it": "Non mangio carne.",
+      "nl": "Ik eet geen vlees.",
+      "uitleg": "Ontkennen is makkelijk: zet 'non' vóór het werkwoord. 'Mangio' = ik eet.",
+      "cultuurtip": "Let op: in bouillon, sauzen of pasta (bijv. met 'guanciale' of 'pancetta') zit soms vlees dat je niet op de kaart ziet staan. Vraag het gerust."
+    }
+  ]
+}
